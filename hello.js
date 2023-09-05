@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log('Quoth the Raven "Nevermore".' + " This is another message")
+console.log('Quoth the Raven "Nevermore".' + " This is another message!")
 
 /*  
 Next, PLAY! 
